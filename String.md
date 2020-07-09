@@ -5,8 +5,8 @@ def reverse(str):
     return s
 
 
+mystr = "Hello, World!"
 
-mystr = "chaman,zingurr,Bc"
 print("Given String: ", mystr)
 
 
