@@ -1,8 +1,9 @@
 def reverse(str):
     s = ""
-    for ch in str:
+   for ch in str:
         s = ch + s
-    return s
+   
+   return s
 
 
 mystr = "Hello, World!"
