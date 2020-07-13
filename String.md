@@ -9,7 +9,7 @@ def reverse(str):
    return s
 
 
-mystr = "Hello, World!"
+mystr = "programmer"
 
 print("Given String: ", mystr)
 
