@@ -1,7 +1,9 @@
+ #include<sstream>
+ 
+ #include<vector>
+    
  #include<iostream>
  
- 
-
 using namespace std;
 
 vector <int> parseInts(const string& str) {
