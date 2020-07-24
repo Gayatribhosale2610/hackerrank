@@ -1,14 +1,12 @@
 #include<sstream>
-
 #include<vector>
-
 #include<iostream>
 
 using namespace std;
 
-vector<int> parseInts(const string& str) {
+vector <int> parseInts(const string& str) {
 
-    vector<int>v;
+    vector <int> v;
 
     stringstream cin(str);
     
