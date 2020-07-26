@@ -11,5 +11,7 @@ int main()
     else{
         cout<<num[n];
     }
+    
+    
     return 0;
 }
