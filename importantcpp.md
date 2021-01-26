@@ -30,7 +30,7 @@ An instance of the class is called as object.
 - > Abstraction refers to hiding the internal implementation and exhibiting only the necessary details.
 
 --------------
-What is inheritance?
+#### What is inheritance?
 
 - > Inheritance is the process of acquiring the properties of the exiting class into the new class. 
 The existing class is called as base/parent class and the inherited class is called as derived/child class.
